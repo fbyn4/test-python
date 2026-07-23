@@ -128,12 +128,15 @@ age = 18
 hehe = "haloo nama saya {} dan aku berumur {} tahun"
 print(hehe.format(nama,age))
 
-
 saudara2 = "saya adalah sudara {NAME1}, {UMUR1}, {Hobi}".format(NAME1="fabian", UMUR1="18", Hobi="Main hsr") 
 print(saudara2)
 
 
+import sys
 
-
-
+print(sys.version)
+ 
+if 5 > 7 :
+    print("5 lebih  besar dari 7")
+    
 
