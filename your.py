@@ -138,5 +138,7 @@ print(sys.version)
  
 if 5 > 7 :
     print("5 lebih  besar dari 7")
-    
+
+print("hallo nama saya fabyan" , end=" ")
+print("berasal dari serang")
 
