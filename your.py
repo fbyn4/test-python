@@ -123,9 +123,7 @@ print(x.expandtabs(2))
 x = "Fabyan"
 print(x.find("a"))
 
-nama = "fabyan"
-age = 18
-hehe = "haloo nama saya {} dan aku berumur {} tahun"
+nama = "fabyan"gitur {} tahun"
 print(hehe.format(nama,age))
 
 saudara2 = "saya adalah sudara {NAME1}, {UMUR1}, {Hobi}".format(NAME1="fabian", UMUR1="18", Hobi="Main hsr") 
@@ -139,6 +137,8 @@ print(sys.version)
 if 5 > 7 :
     print("5 lebih  besar dari 7")
 
-print("hallo nama saya fabyan" , end=" ")
+print("hallo nama saya fabyan " , end=" ")
 print("berasal dari serang")
+
+print("hahahahahaahah")
 
