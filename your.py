@@ -131,10 +131,27 @@ print("hallo nama saya fabyan " , end=" ")
 print("berasal dari serang")
 
 
+a = "fabyan"
+
+def fabyanwkwkw() :
+    X = "qiana"
+    print("nama saya adalah " + X)
 
 
+fabyanwkwkw()
+
+print("nama saya adalah " + a)
 
 
+a = 67
+
+def fabyanwkwwk() :
+    global a 
+    a = "13"
+
+fabyanwkwwk()
+
+print("ini harganya berapa? " + a)
 
 
 
