@@ -153,7 +153,21 @@ fabyanwkwwk()
 
 print("ini harganya berapa? " + a)
 
+x = 2
+y = 2.3
+z = 2j
 
+a = float(x)
+b = int(y)
+c = complex(z)
+
+print(a)
+print(b)
+print(c)
+
+print(type(a))
+print(type(b))
+print(type(c))
 
 
 
