@@ -12,3 +12,11 @@ y = "jhon"
 
 print(type(x))
 
+#PY DATA TYPE
+x = 5
+x = 3.14
+x = "hallo" 
+
+print(type(x))
+print(type(x))
+print(type(x))
