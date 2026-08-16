@@ -169,6 +169,34 @@ print(type(a))
 print(type(b))
 print(type(c))
 
+print("Hallo world!", end="")
+print("semoga pagi ini menyenangkan")
+
+print("nama saya fabyan" ,56, "adalah umur saya")
+
+x = int(7)
+y = int(3.4)
+z = int("90")
+
+print(x,y,z)
+
+x = float(3)
+y = float(3.2)
+z = float("2")
+w = float("5.3")
+
+print(x)
+print(y)
+print(z)
+print(w)
+
+x = str("2")
+y = str(3)
+z = str(3.1)
+
+print(x)
+print(y)
+print(z)
 
 
 
