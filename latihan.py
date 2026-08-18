@@ -29,3 +29,13 @@ z = 2 + 3j
 print(type(x))
 print(type(y))
 print(type(z))
+
+#PY CASTING
+x = 1
+
+a = float(x)
+b = str(x)
+
+print(a)
+print(b)
+

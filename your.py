@@ -198,7 +198,9 @@ print(x)
 print(y)
 print(z)
 
-
+for x in "manusia baik":
+    print(x)
+print(len(x))
 
 
 
