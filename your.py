@@ -200,7 +200,18 @@ print(z)
 
 for x in "manusia baik":
     print(x)
-print(len(x))
+
+a = "fabyan faiq alkautsar" 
+print(len(a))
+
+a = "aku sudah makan nasi dan ayam"
+if "telor" in a:
+    print("ya, telor ada disitu")
+if "telor" not in a:
+    print("tidak, telor tidak ada disitu")
+
+a = "nama saya fabyan"
+print(a[4:16])
 
 
 
