@@ -214,6 +214,52 @@ a = "nama saya fabyan"
 print(a[4:16])
 
 
+a = "fabyan"
+print(a[-4:-2])
+
+a = " hallo "
+print(a)
+
+a = " hallo "
+print(a.strip())
+
+a = "hallo, kawan"
+print(a.split(","))
+
+a = "Fabyan"
+b = "fabyan"
+
+x = a.lower()
+y = b.upper()
+
+print(x,y.split())
+
+a = 34
+txt = f"nama saya fabyan dan umur saya adalah {a}"
+print(txt.upper())
+
+
+def myhitam(): 
+    global a
+    harga = 78
+    age = 140
+    a = "mas amba"
+    txt = f"nama saya adalah {a} dan umur saya adalah {age} tahun dan saya mempunyai uang Rp {harga:.3f}"
+    print(txt.upper())
+
+myhitam()
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
