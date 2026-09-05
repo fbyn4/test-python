@@ -250,6 +250,21 @@ def myhitam():
 myhitam()
 
 
+def myamba():
+    name = "fabyan"
+    age = 90
+    makan = "pizza"
+    makan2 = "nasi"
+    txt = f"nama saya adalah {name} dan umur saya adalah {age:.2f} tahun dan saya suka makan {makan} make {makan2}"
+    print(txt)
+
+myamba()
+
+
+
+
+
+
 
 
 
