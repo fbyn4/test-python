@@ -39,3 +39,20 @@ b = str(x)
 print(a)
 print(b)
 
+#PY STRING
+txt = "Hello, World!"
+print(txt[2:5])
+print(txt.upper())
+
+name = "Python"
+txt = f"L love {name}"
+print(txt)
+
+
+
+
+
+
+
+
+

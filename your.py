@@ -260,6 +260,11 @@ def myamba():
 
 myamba()
 
+txt = "FABYAN"
+print(txt.swapcase())
+
+
+
 
 
 
